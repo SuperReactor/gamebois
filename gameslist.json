@@ -1,5 +1,6 @@
 [
     {"name":"tetris", "type":"gb", "tags":["puzzle"]},
+    {"name":"gb-dash", "type":"gb", "tags":["platformer"]},  
     {"name":"metroid-ii-return-of-samus", "type":"gb", "tags":["platformer", "adventure"]}, 
     {"name":"wario-land", "type":"gb", "tags":["platformer"]}, 
     {"name":"pokemon-red", "type":"gb", "tags":["rpg"]},  
